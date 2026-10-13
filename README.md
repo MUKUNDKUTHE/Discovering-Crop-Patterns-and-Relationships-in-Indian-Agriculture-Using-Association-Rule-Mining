@@ -2,7 +2,7 @@
 
 A Predictive Analytics course project that applies **association rule mining (FP-Growth)** to district-level crop production records from India (1997 to 2015). The project discovers which crops belong to which season, which crops are grown together, and which crops are linked with high or low yield, and expresses these findings as simple if-then rules.
 
-> Symbiosis Institute of Technology, Nagpur | B.Tech Computer Science and Engineering (Batch 2023-27) | Semester 6
+> Symbiosis Institute of Technology, Nagpur | B.Tech Computer Science and Engineering (Batch 2023-27) | Semester 7
 
 ---
 
