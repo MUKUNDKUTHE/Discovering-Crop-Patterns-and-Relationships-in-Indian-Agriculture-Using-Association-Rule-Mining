@@ -1,0 +1,181 @@
+support,itemsets,length
+0.3890188602951795,Season=Kharif,1
+0.3333333333333333,Yield_bin=Medium,1
+0.3333333333333333,Area_bin=Medium,1
+0.3333333333333333,Yield_bin=Low,1
+0.3333333333333333,Area_bin=Low,1
+0.3333333333333333,Yield_bin=High,1
+0.3333333333333333,Area_bin=High,1
+0.2729812139741955,Season=Rabi,1
+0.23158428955153676,Season=Whole Year,1
+0.15855686352177123,"Season=Kharif, Yield_bin=Low",2
+0.1499911289357611,"Area_bin=High, Season=Kharif",2
+0.14587330469836318,"Season=Kharif, Yield_bin=Medium",2
+0.1369403493136272,State_Name=Uttar Pradesh,1
+0.13620590771617547,"Season=Whole Year, Yield_bin=High",2
+0.12454148976114143,"Area_bin=Medium, Season=Kharif",2
+0.12142217601016665,"Area_bin=Medium, Yield_bin=Low",2
+0.12096830760724704,"Area_bin=High, Yield_bin=High",2
+0.1161490503835188,"Area_bin=High, Yield_bin=Medium",2
+0.1156951819805992,"Area_bin=Low, Yield_bin=Low",2
+0.11448624159827694,"Area_bin=Low, Season=Kharif",2
+0.10923787242997017,"Season=Rabi, Yield_bin=Medium",2
+0.10921724204801928,"Area_bin=Low, Yield_bin=Medium",2
+0.10842090930471487,"Area_bin=Low, Yield_bin=High",2
+0.10796704090179525,"Area_bin=Medium, Yield_bin=Medium",2
+0.10394411642137143,"Area_bin=Medium, Yield_bin=High",2
+0.10249173753202867,"Area_bin=Low, Season=Whole Year",2
+0.09894331183647534,"Area_bin=High, Season=Rabi",2
+0.0962159753425675,"Area_bin=High, Yield_bin=Low",2
+0.0946934531545917,"Area_bin=Medium, Season=Rabi",2
+0.09411580245996674,"Season=Rabi, Yield_bin=Low",2
+0.09326583072359002,State_Name=Madhya Pradesh,1
+0.08697356422856813,State_Name=Karnataka,1
+0.08458869207504507,"Season=Kharif, Yield_bin=High",2
+0.08165092568523814,"Area_bin=Medium, Season=Whole Year",2
+0.07934444898312848,"Area_bin=Low, Season=Rabi",2
+0.077875565788225,State_Name=Bihar,1
+0.0696275390842586,"Season=Rabi, Yield_bin=High",2
+0.06222948411666893,Crop=Rice,1
+0.06111131741493062,Season=Summer,1
+0.060331488977186924,State_Name=Assam,1
+0.05964243422002715,"Season=Kharif, State_Name=Uttar Pradesh",2
+0.056886215191388055,Crop=Maize,1
+0.056811945816364846,"Area_bin=Medium, Season=Kharif, Yield_bin=Low",3
+0.05580105710077116,State_Name=Odisha,1
+0.055726787725747955,"Area_bin=Low, Season=Whole Year, Yield_bin=High",3
+0.05473652939210517,State_Name=Tamil Nadu,1
+0.054431199739231974,"Area_bin=High, Season=Kharif, Yield_bin=Medium",3
+0.05343268925280883,"Area_bin=High, Season=Kharif, Yield_bin=Low",3
+0.05327589834998205,"Area_bin=Low, State_Name=Uttar Pradesh",2
+0.052232001023266944,"State_Name=Uttar Pradesh, Yield_bin=Medium",2
+0.05188953668288215,"Season=Whole Year, Yield_bin=Low",2
+0.051559450571667886,State_Name=Maharashtra,1
+0.05117159939099113,"State_Name=Uttar Pradesh, Yield_bin=High",2
+0.050135954217056376,"Area_bin=Medium, Season=Whole Year, Yield_bin=High",3
+0.04978523772389122,State_Name=Rajasthan,1
+0.049438647307116244,"Season=Rabi, State_Name=Uttar Pradesh",2
+0.048984778904196634,"Area_bin=High, Crop=Rice",2
+0.04831222845259757,"Area_bin=Low, Season=Kharif, Yield_bin=Low",3
+0.04744162633426995,"Area_bin=High, Season=Whole Year",2
+0.04659990675067358,"Area_bin=High, State_Name=Uttar Pradesh",2
+0.045745808937906675,"Area_bin=Low, Season=Kharif, Yield_bin=Medium",3
+0.04569629602122454,"Area_bin=Medium, Season=Kharif, Yield_bin=Medium",3
+0.04348884515247915,"Season=Whole Year, Yield_bin=Medium",2
+0.04333205424965238,"State_Name=Bihar, Yield_bin=Medium",2
+0.04277916001336849,State_Name=Chhattisgarh,1
+0.04212723994372032,"Area_bin=High, Season=Kharif, Yield_bin=High",3
+0.04169812799914178,Crop=Moong(Green Gram),1
+0.04166924546441053,"State_Name=Madhya Pradesh, Yield_bin=Low",2
+0.040348901019553476,"Area_bin=High, Season=Rabi, Yield_bin=Medium",3
+0.04006420174863117,Crop=Urad,1
+0.03959795511654103,State_Name=West Bengal,1
+0.03944941636649461,State_Name=Andhra Pradesh,1
+0.03899142188718482,"Area_bin=Medium, Season=Rabi, Yield_bin=Medium",3
+0.037646320983986695,"Season=Kharif, State_Name=Madhya Pradesh",2
+0.037382252095015285,"Crop=Rice, Yield_bin=High",2
+0.03706454421297156,"Area_bin=Medium, State_Name=Uttar Pradesh",2
+0.036396119837762676,Crop=Sesamum,1
+0.036206320323814475,"Area_bin=Medium, Season=Rabi, Yield_bin=Low",3
+0.03618568994186358,Crop=Groundnut,1
+0.034650789524717264,"Area_bin=High, State_Name=Madhya Pradesh",2
+0.034642537371936906,"State_Name=Karnataka, Yield_bin=High",2
+0.03451462900384138,State_Name=Gujarat,1
+0.03449812469828066,"Crop=Moong(Green Gram), Yield_bin=Low",2
+0.033536748899369126,"State_Name=Uttar Pradesh, Yield_bin=Low",2
+0.033227293170105754,"Season=Kharif, State_Name=Karnataka",2
+0.03319428455898432,"Season=Whole Year, State_Name=Madhya Pradesh",2
+0.03275279438523525,"Season=Whole Year, State_Name=Tamil Nadu",2
+0.03250522980182455,Crop=Wheat,1
+0.03229479990592546,Crop=Sugarcane,1
+0.03227829560036474,"Area_bin=Low, State_Name=Madhya Pradesh",2
+0.03222465660729243,"State_Name=Karnataka, Yield_bin=Low",2
+0.03189044441968798,"Crop=Sugarcane, Yield_bin=High",2
+0.03156035830847372,"Area_bin=High, State_Name=Karnataka",2
+0.03151497146818176,"Crop=Sesamum, Yield_bin=Low",2
+0.03126328080838089,"Area_bin=High, Season=Rabi, Yield_bin=High",3
+0.03108173344721304,Crop=Rapeseed &Mustard,1
+0.031023968377750545,"Crop=Maize, Yield_bin=High",2
+0.03096620330828805,"Crop=Urad, Yield_bin=Low",2
+0.03096207723189787,"Crop=Wheat, Season=Rabi",2
+0.030846547092972878,Crop=Arhar/Tur,1
+0.03057835212761129,"Area_bin=Low, Season=Rabi, Yield_bin=Low",3
+0.03034316577337113,"Area_bin=High, Season=Whole Year, Yield_bin=High",3
+0.029897549523231873,"Area_bin=Low, Season=Rabi, Yield_bin=Medium",3
+0.029819154071818486,Crop=Gram,1
+0.02971187608567385,"Season=Kharif, State_Name=Maharashtra",2
+0.029703623932893494,"Area_bin=High, Crop=Rice, Yield_bin=High",3
+0.029583967717578322,"Crop=Maize, Season=Kharif",2
+0.029513824418945293,"Area_bin=Low, State_Name=Bihar",2
+0.029456059349482797,"Area_bin=High, State_Name=Maharashtra",2
+0.028936173724320332,"State_Name=Madhya Pradesh, Yield_bin=Medium",2
+0.028882534731248015,"Area_bin=Medium, State_Name=Karnataka",2
+0.02884127396734623,Crop=Jowar,1
+0.02881651750900516,Crop=Onion,1
+0.02865560052978821,"Crop=Gram, Season=Rabi",2
+0.028606087613106068,"Crop=Rapeseed &Mustard, Season=Rabi",2
+0.02852769216169268,Crop=Potato,1
+0.028416288099157867,"Season=Summer, Yield_bin=High",2
+0.02836264910608555,"State_Name=Odisha, Yield_bin=Low",2
+0.028321388342183767,"Crop=Rice, Season=Kharif",2
+0.028044941224041824,"Crop=Potato, Yield_bin=High",2
+0.028007806536530216,"Crop=Onion, Yield_bin=High",2
+0.027648837890584706,"Crop=Arhar/Tur, Season=Kharif",2
+0.027335256084931158,"Area_bin=Medium, State_Name=Bihar",2
+0.02733113000854098,"Area_bin=High, Season=Rabi, Yield_bin=Low",3
+0.026666831709722272,"Season=Rabi, State_Name=Bihar",2
+0.02653067118884639,"Area_bin=Low, State_Name=Karnataka",2
+0.026493536501334784,Crop=Dry chillies,1
+0.026336745598508012,"Area_bin=Medium, State_Name=Madhya Pradesh",2
+0.026113937473438383,"Area_bin=Medium, State_Name=Assam",2
+0.026068550633146424,"Season=Kharif, State_Name=Uttar Pradesh, Yield_bin=Medium",3
+0.026014911640074103,"Crop=Sesamum, Season=Kharif",2
+0.025594051848275918,"Crop=Sugarcane, Season=Whole Year",2
+0.025292848271792904,"Area_bin=Low, Season=Summer",2
+0.025235083202330408,"Crop=Sugarcane, Season=Whole Year, Yield_bin=High",3
+0.02496276216057864,Season=Winter,1
+0.02472757580633848,"Crop=Groundnut, Yield_bin=Medium",2
+0.02470694542438759,"Area_bin=Low, Season=Whole Year, Yield_bin=Low",3
+0.02451301983404921,"State_Name=Maharashtra, Yield_bin=Low",2
+0.02438511146595368,"Area_bin=High, Crop=Maize",2
+0.024261329174248333,"Area_bin=High, Crop=Rice, Season=Kharif",3
+0.024261329174248333,"Season=Kharif, State_Name=Bihar",2
+0.024257203097858154,"Area_bin=High, Crop=Wheat",2
+0.024162303340884053,"Crop=Urad, Season=Kharif",2
+0.02405089927834924,"Area_bin=High, Crop=Wheat, Season=Rabi",3
+0.02392711698664389,"State_Name=Chhattisgarh, Yield_bin=Low",2
+0.02366304809767248,"State_Name=Assam, Yield_bin=Low",2
+0.023630039486551055,"State_Name=Tamil Nadu, Yield_bin=High",2
+0.02330407945172697,"State_Name=Bihar, Yield_bin=High",2
+0.023068893097486807,State_Name=Telangana,1
+0.022973993340512706,"Season=Rabi, State_Name=Karnataka",2
+0.022866715354368072,"Crop=Sesamum, Season=Kharif, Yield_bin=Low",3
+0.022775941673784147,"State_Name=Assam, Yield_bin=High",2
+0.022660411534859155,"State_Name=Madhya Pradesh, Yield_bin=High",2
+0.02262327684734755,Crop=Sunflower,1
+0.022598520389006484,"Crop=Maize, Yield_bin=Medium",2
+0.022441729486179708,"Crop=Moong(Green Gram), Season=Kharif",2
+0.022425225180618995,"Season=Rabi, State_Name=Madhya Pradesh",2
+0.022416973027838637,"Season=Kharif, State_Name=Rajasthan",2
+0.02219416490276901,Crop=Bajra,1
+0.022058004381893127,"Area_bin=Low, Season=Whole Year, Yield_bin=Medium",3
+0.022033247923552057,"Area_bin=Medium, Season=Kharif, Yield_bin=High",3
+0.02197135677769938,"Area_bin=High, Season=Kharif, State_Name=Uttar Pradesh",3
+0.021913591708236885,"Area_bin=Low, Season=Kharif, State_Name=Uttar Pradesh",3
+0.02185995271516457,"Crop=Groundnut, Season=Kharif",2
+0.021727918270678864,"Area_bin=Medium, State_Name=Odisha",2
+0.02162064028453423,"Season=Rabi, State_Name=Uttar Pradesh, Yield_bin=High",3
+0.021026485284348556,"Area_bin=High, State_Name=Bihar",2
+0.020857316152351243,"Area_bin=Medium, Season=Summer",2
+0.020704651325914647,"Area_bin=Low, State_Name=Odisha",2
+0.02070052524952447,"Area_bin=High, State_Name=Uttar Pradesh, Yield_bin=High",3
+0.020659264485622688,"Crop=Rice, Yield_bin=Medium",2
+0.020613877645330726,"Area_bin=Low, State_Name=Assam",2
+0.020527230041136983,"Crop=Jowar, Season=Kharif",2
+0.02047771712445484,"Season=Whole Year, State_Name=Karnataka",2
+0.02046121281889413,"Area_bin=High, Season=Rabi, State_Name=Uttar Pradesh",3
+0.020428204207772704,"Area_bin=Low, Season=Kharif, Yield_bin=High",3
+0.020341556603578958,Season=Autumn,1
+0.02024253077021468,"State_Name=Tamil Nadu, Yield_bin=Low",2
+0.020106370249338795,"State_Name=Karnataka, Yield_bin=Medium",2
+0.02007336163821737,"Area_bin=Low, State_Name=Rajasthan",2
